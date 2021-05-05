@@ -1,3 +1,5 @@
 # Welcome 👋  
 
-WIP migration - Personal blog
+This is my personal blog, you can visit it in the following link:  
+
+🔗 [Tonatiuh Morales](https://tmorales.dev/blog)  
