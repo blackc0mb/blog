@@ -3,7 +3,7 @@ title: Development resources
 layout: post
 description: Useful development resources
 date: 2021-03-06 00:05
-modified_date: 2021-04-01 16:00
+modified_date: 2021-05-25 19:32
 author: TMorales
 tag: resources
 ---
@@ -32,6 +32,7 @@ Icons, avatars references<br/>
 🔗 <a href="https://ionicons.com/" target="_blank">Open Source Icons</a><br/>
 🔗 <a href="https://iconify.design/" target="_blank">Thousands of icons, one unified framework</a><br/>
 🔗 <a href="https://fontawesome.com/" target="_blank">Vector Icons</a><br/>
+🔗 <a href="https://iconoir.com/" target="_blank">The Definitive Open Source Icons Library</a><br/>
 🔗 <a href="https://getavataaars.com/" target="_blank">Avatar generator</a><br/><br/>
 
 Thanks for reading! **TM**  
