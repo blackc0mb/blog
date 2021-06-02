@@ -3,7 +3,7 @@ title: Common Raspberry PI commands
 layout: post
 description: Useful commands to manage Raspberry PI
 date: 2021-02-10 23:20
-modified_date: 2021-03-16 21:30
+modified_date: 2021-06-01 23:38
 author: TMorales
 tag: commands
 ---
@@ -26,7 +26,11 @@ sudo apt-get clean
 ```
 df -h
 ```
-**Opens** the configuration settings menu
+**Show** disk usage in current directory
+```
+du -sh
+```
+**Open** the configuration settings menu
 ```
 raspi-config
 ```
@@ -42,7 +46,7 @@ hostname
 ```
 reboot
 ```
-**Opens** the text file specified
+**Open** the text file specified
 ```
 nano [yourfile]
 ```
