@@ -13,3 +13,10 @@ tag: work
 - [We Work Remotely](https://weworkremotely.com/) - The largest remote work community in the world
 - [Remote OK](https://remoteok.io/) - Work anywhere, live anywhere #OpenSalaries
 - [Terminal](https://terminal.io/join) - Global opportunities at your doorstep
+- [No CS OK](https://nocsok.com/) - Junior developer jobs without a degree
+- [Jobspresso](https://jobspresso.co/) - Work remotely from anywhere
+- [Working Nomads](https://www.workingnomads.co/jobs) - Remote jobs for Digital Working Nomads
+- [Remote Global](https://remoteglobal.com/) - Remote work is the future
+- [Remotive](https://remotive.io/) - Remote Jobs in Programming, Support, Design and more
+- [Triplebyte](https://triplebyte.com/) - Triplebyte: Software Engineer Job Search
+- [#epicjobs](https://epicjobs.co/) - Know who’s hiring you
