@@ -38,3 +38,9 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+gems:
+ - jekyll-paginate
+
+paginate: 3
+paginate_path: posts/page:num/
