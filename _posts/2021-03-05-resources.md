@@ -3,7 +3,7 @@ title: Development resources
 layout: post
 description: Useful development resources
 date: 2021-03-06 00:05
-modified_date: 2021-05-25 19:32
+modified_date: 2021-06-08 23:25
 author: TMorales
 tag: resources
 ---
@@ -23,7 +23,8 @@ CSS<br/>
 ---
 General references<br/>
 🔗 <a href="https://andreasbm.github.io/web-skills/" target="_blank">Web skills</a><br/>
-🔗 <a href="https://animate.style/" target="_blank">Animations library</a>
+🔗 <a href="https://animate.style/" target="_blank">Animations library</a><br/>
+🔗 <a href="https://1loc.dev/" target="_blank">285 Favorite JavaScript Utilities</a>
 
 ---
 Icons, avatars references<br/>
