@@ -21,6 +21,8 @@ tag: remotejobs
    <li><a href="https://triplebyte.com/" target="_blank">Triplebyte</a><span> - Triplebyte: Software Engineer Job Search</span></li>
    <li><a href="https://epicjobs.co/" target="_blank">#epicjobs</a><span> - Know who’s hiring you</span></li>
    <li><a href="https://nodesk.co/" target="_blank">NoDesk</a><span> - Where everyone works remote</span></li>
+   <li><a href="https://remote.co/" target="_blank">Remote.co</a><span> - Grow remotely</span></li>
+   <li><a href="https://www.adzuna.com/" target="_blank">Adzuna</a><span> - Zero in on the right role</span></li>
 </ul>
 
 ---  
@@ -28,5 +30,6 @@ tag: remotejobs
 - Nataly Silva [@__Mildreed](https://www.twitter.com/__Mildreed)  
 - Chris Kalmar [@chriskalmar](https://www.twitter.com/chriskalmar)  
 - Daniel Martinez [@Wakkos](https://www.twitter.com/Wakkos)  
+- Andrew Baisden [@andrewbaisden](https://www.twitter.com/andrewbaisden)  
 
 Thanks for reading! **TM** 
