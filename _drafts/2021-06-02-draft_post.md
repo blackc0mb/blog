@@ -18,10 +18,10 @@ Es una herramienta que se integra con **Solution Manager**, es decir viene en mo
 
 Primeramente no te diré algún cliché tipo "te agrega X o Y valor", sino mas bien te ayuda a simplificar la administración de tus ambientes SAP. Y si tuviera que en-listar algunos motivos del porque SI utilizarlo serían:  
 
-- Buen "look and feel" con FIORI utilizando [TILES](https://experience.sap.com/fiori-design-web/tile/).  
-- Puedes administrar de manera centralizada tus ambientes SAP.  
-- No tiene costo adicional, ya que se instala o integra dentro de Solution Manager.  
-- Los indicadores ya vienen pre definidos y listos para mostrarlos en tus tableros de control.  
+- Buen "look and feel" con FIORI utilizando [TILES](https://experience.sap.com/fiori-design-web/tile/)  
+- Puedes administrar de manera centralizada tus ambientes SAP  
+- No tiene costo adicional, ya que se instala o integra dentro de Solution Manager  
+- Los indicadores ya vienen pre definidos y listos para mostrarlos en tus tableros de control  
 
 Y tal vez te puedas preguntar y en que caso no debería utilizarlo? Aquí lo que te recomiendo es, si solo tienes un pequeño Landscape de SAP (claro sin menospreciar), no haría mucho sentido invertir tiempo y esfuerzo en implementar esta solución, pero si tu plan es seguir creciendo con soluciones de SAP, entonces por tema de escalabilidad en la administración de tu Landscape si te recomiendo al menos evaluar la implementación de esta herramienta.  
 
