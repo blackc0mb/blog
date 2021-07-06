@@ -30,9 +30,9 @@ Y tal vez te puedas preguntar y en que caso no debería utilizarlo? Aquí lo que
 - Contar con version de Solution Manager 7.2 (deseable SP08)  
 - Tener configurado el modulo de Technical Monitoring en Solution Manager  
 - Relacionado al punto anterior, tener configurados el(los) sistemas a tu Solution Manager  
-- Instalar como Add-On el  Focused Insights el cual equivale al componente ST-OST  
+- Instalar como Add-On el **Focused Insights** el cual equivale al componente ST-OST  
 
-Una vez cubiertos estos pre requisitos, debes también trabajar con serie de configuraciones dentro de Solution Manager para poder empezar a utilizar esta herramienta, todo el detalle de esto que te comento lo puedes encontrar en este [enlace](https://help.sap.com/doc/2a5eebe6285b465eb7fb4a6e66b8ea2b/230/en-US/FINSIGHTS_InstallationGuide.pdf).  
+Una vez cubiertos estos pre-requisitos, debes también trabajar con serie de configuraciones dentro de Solution Manager para poder empezar a utilizar esta herramienta, todo el detalle de esto que te comento lo puedes encontrar en este [enlace](https://help.sap.com/doc/2a5eebe6285b465eb7fb4a6e66b8ea2b/230/en-US/FINSIGHTS_InstallationGuide.pdf).  
 
 #### Conclusión  
 
