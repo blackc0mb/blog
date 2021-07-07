@@ -16,7 +16,7 @@ Es una herramienta que se integra con **Solution Manager**, es decir viene en mo
 
 #### ¿Porque debería utilizarlo?  
 
-Primeramente no te diré algún cliché tipo "te agrega X o Y valor", sino mas bien te ayuda a simplificar la administración de tus ambientes SAP. Y si tuviera que en-listar algunos motivos del porque SI utilizarlo serían:  
+Primeramente no te diré algún cliché tipo "te agrega X o Y valor", sino mas bien te ayuda a simplificar la administración de tus ambientes SAP. Y si tuviera que enlistar algunos motivos del porque SI utilizarlo serían:  
 
 - Buen "look and feel" con FIORI utilizando [TILES](https://experience.sap.com/fiori-design-web/tile/)  
 - Puedes administrar de manera centralizada tus ambientes SAP  
@@ -30,9 +30,9 @@ Y tal vez te puedas preguntar y en que caso no debería utilizarlo? Aquí lo que
 - Contar con version de Solution Manager 7.2 (deseable SP08)  
 - Tener configurado el modulo de Technical Monitoring en Solution Manager  
 - Relacionado al punto anterior, tener configurados el(los) sistemas a tu Solution Manager  
-- Instalar como Add-On el **Focused Insights** el cual equivale al componente ST-OST  
+- Instalar como Add-On el **Focused Insights**, el cual equivale al componente ST-OST  
 
-Una vez cubiertos estos pre-requisitos, debes también trabajar con serie de configuraciones dentro de Solution Manager para poder empezar a utilizar esta herramienta, todo el detalle de esto que te comento lo puedes encontrar en este [enlace](https://help.sap.com/doc/2a5eebe6285b465eb7fb4a6e66b8ea2b/230/en-US/FINSIGHTS_InstallationGuide.pdf).  
+Una vez cubiertos estos pre-requisitos, debes también trabajar con una serie de configuraciones dentro de Solution Manager para poder empezar a utilizar esta herramienta, todo el detalle de esto que te comento lo puedes encontrar en este [enlace](https://help.sap.com/doc/2a5eebe6285b465eb7fb4a6e66b8ea2b/230/en-US/FINSIGHTS_InstallationGuide.pdf).  
 
 #### Conclusión  
 
