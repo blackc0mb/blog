@@ -3,7 +3,7 @@ title: Common Raspberry PI commands
 layout: post
 description: Useful commands to manage Raspberry PI
 date: 2021-02-10 23:20
-modified_date: 2021-08-27 18:32
+modified_date: 2021-09-10 18:24
 author: TMorales
 tag: commands
 ---
@@ -37,6 +37,26 @@ raspi-config
 **Check** the status of the wireless connection
 ```
 ifconfig
+```
+**Network** statistics
+```
+# list all ports
+netstat -a
+
+# list all tcp ports
+netstat -at
+
+# list only listening tcp ports
+netstat -lt
+
+# display the number of active connections on port 80
+netstat -an | grep :80 | wc -l
+
+# show statistics for all ports
+netstat -s
+
+# show list of network interfaces
+netstat -i
 ```
 **Display** the hostname of the system
 ```
